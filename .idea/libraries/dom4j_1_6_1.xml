@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dom4j-1.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/05_xml/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/05_web/web/WEB-INF/lib/mysql-connector-java-8.0.22.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/05_web/web/WEB-INF/lib/druid-1.1.10.zip!/doc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

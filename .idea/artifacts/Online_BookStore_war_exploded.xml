@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Online_BookStore:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Online_BookStore_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Online_BookStore/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Online_BookStore" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="book_lib" />
+          <element id="library" level="module" name="JUnit4" module-name="Online_BookStore" />
+          <element id="library" level="module" name="commons-logging-1.1.1" module-name="Online_BookStore" />
+          <element id="library" level="module" name="taglibs-standard-impl-1.2.1" module-name="Online_BookStore" />
+          <element id="file-copy" path="$PROJECT_DIR$/Online_BookStore/web/WEB-INF/lib/kaptcha-2.3.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Online_BookStore/web/WEB-INF/lib/gson-2.2.4.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

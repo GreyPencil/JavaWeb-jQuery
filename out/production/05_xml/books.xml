@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">-->
+<!--<properties/>-->
+<books>
+    <book sn="SN123412123412">
+        <name>时间简史</name>
+        <author>霍金</author>
+        <price>75</price>
+    </book>
+
+    <book sn="SN123412123422">
+        <name>Java从入门到放弃</name>
+        <author>沙老师</author>
+        <price>9.9</price>
+    </book>
+
+</books>
+
+
+
